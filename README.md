@@ -15,5 +15,5 @@ The chance of you winning your dream car at first is 1/3 and The chance of you o
 **Although this might sound as a game of luck, it's a game of probablity**. The trick here is to take every swap monty has to offer to increase your chance of winning. Note the word **_increase_**. No one can gaurantee the output of this game (it's all about probability), you might choose to swap and still **lose**(ouch). But choosing to swap everytime gives you a higher chance of taking that car home as you are dealing with the rest 2/3 i.e 66% of chance.
 
 ### Program
-The python program simulates this paradox for you, make smart choices and increase your score. Find out more statistics such as wins and loses with swaps and without swaps, success rates an even loss rates.
+The python program simulates this paradox for you, make smart choices and increase your score. Find out more statistics such as wins and loses with swaps and without swaps, success rates and even loss rates.
 
